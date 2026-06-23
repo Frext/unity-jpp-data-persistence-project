@@ -14,7 +14,7 @@ Want to skip the code and just play?
 
 1. **[Download the Repository](https://github.com/Frext/unity-jpp-data-persistence-project/archive/refs/heads/main.zip)**
 2. Extract the ZIP file.
-3. Open the **`BuildWindows`** folder and run the game executable named **`SimpleBreakout.exe`**.
+3. Open the **`BuildWindows`** folder and launch **`SimpleBreakout.exe`**.
 
 ---
 
